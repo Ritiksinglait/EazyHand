@@ -2,6 +2,8 @@ import React from "react";
 import styles from "./team.module.scss";
 // import { FaGithub } from "react-icons/fa";
 import ritik from "../../../../assets/images/team/ritik.jpeg";
+import Anshuman from "../../../../assets/images/team/Anshuman.jpg";
+
 // import smaranjit1 from "../../../../assets/images/team/smaranjit1.png";
 import FluidCard from "./components/FluidCard/FluidCard";
 
@@ -17,9 +19,9 @@ function Team() {
 		{
 			name: "Anshumann Sharma",
 			title: "Lead Developer",
-			githubLink: "https://github.com/anushbhatia",
-			linkedinLink: "https://www.linkedin.com/in/ritik-singla-10033619b/",
-			imgArray: [ritik],
+			githubLink: "https://github.com/anshuman235",
+			linkedinLink: "https://www.linkedin.com/in/anshuman-sharma-b8609619b/",
+			imgArray: [Anshuman],
 		},
 	];
 

@@ -56,7 +56,7 @@ function About() {
 			</div>
 			<div className={styles.line}>
 				<b>
-					<i>Doc2Pen</i>
+					<i>EazyHand</i>
 				</b>{" "}
 				is the best online platform for getting all your{" "}
 				<b>
