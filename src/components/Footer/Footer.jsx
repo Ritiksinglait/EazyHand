@@ -6,6 +6,7 @@ import UseAnimations from "react-useanimations";
 import JSONAnimation from "../../assets/githublogo/github.json";
 import github from "react-useanimations/lib/github";
 
+
 export default function Footer(props) {
 	return (
 		<div className={`${styles.footerDiv}`}>
@@ -24,8 +25,8 @@ export default function Footer(props) {
 			</div>
 			<div className={styles.tint}></div>
 			<div className={styles.githubLogoDiv}>
-				{/* github hosted id  */}
-				<a href="https://github.com/smaranjitghose/doc2pen">
+				 github hosted id 
+				<a href="https://github.com/Ritiksinglait/EazyHand">
 					<UseAnimations
 						className={styles.githubLogo}
 						animation={github}
@@ -34,13 +35,14 @@ export default function Footer(props) {
 						loop={true}
 						strokeColor="#ffffff"
 						speed={1}
+					
 					/>
 				</a>
-			</div>
+			</div> 
 			<div>
 				<Fade>
 					<p className={styles.footerText}>
-						{emoji("Made with ❤️ in India for the students of the world.")}
+						{emoji("We're here to make your life easier :)")}
 					</p>
 				</Fade>
 			</div>
