@@ -2,37 +2,37 @@
 
 const data = {
 	home: {
-		title: "Doc2pen",
+		title: "EazyHand",
 		description:
 			"A student's savior to submit those assignments by just typing them out and getting it handwritten on the go!",
-		keywords: "doc2pen, home, student",
+		keywords: "EazyHand, home, student",
 	},
 	editor: {
-		title: "Doc2pen - Editor",
+		title: "EazyHand - Editor",
 		description:
 			"Editor is a tool to help you convert your typed documents into handwritten.",
-		keywords: "doc2pen, editor",
+		keywords: "EazyHand, editor",
 	},
 	sketch: {
-		title: "Doc2pen - Sketch",
+		title: "EazyHand - Sketch",
 		description: "Sketch is a tool to help you create your own art.",
-		keywords: "doc2pen, sketch",
+		keywords: "EazyHand, sketch",
 	},
 	mediaManip: {
-		title: "Doc2pen - Media Manip",
+		title: "EazyHand - Media Manip",
 		description:
 			"File converter is a tool to help you to convert files in specific formats.",
-		keywords: "doc2pen, mediaManip",
+		keywords: "EazyHand, mediaManip",
 	},
 	notFound: {
-		title: "Doc2pen - 404",
+		title: "EazyHand - 404",
 		description: "Uh ohh Looks like you encountered a 404 not found error.",
-		keywords: "doc2pen, 404",
+		keywords: "EazyHand, 404",
 	},
 	contact: {
-		title: "Doc2pen - Contact us",
+		title: "EazyHand - Contact us",
 		description: "Contact and get in touch with us.",
-		keywords: "doc2pen, contact, contact us",
+		keywords: "EazyHand, contact, contact us",
 	},
 };
 

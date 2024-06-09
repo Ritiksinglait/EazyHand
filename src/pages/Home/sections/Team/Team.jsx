@@ -2,7 +2,7 @@ import React from "react";
 import styles from "./team.module.scss";
 // import { FaGithub } from "react-icons/fa";
 import ritik from "../../../../assets/images/team/ritik.jpeg";
-import Anshuman from "../../../../assets/images/team/Anshuman.jpg";
+import Anshuman from "../../../../assets/images/team/Anshuman.png";
 
 // import smaranjit1 from "../../../../assets/images/team/smaranjit1.png";
 import FluidCard from "./components/FluidCard/FluidCard";
@@ -17,7 +17,7 @@ function Team() {
 			imgArray: [ritik],
 		},
 		{
-			name: "Anshumann Sharma",
+			name: "Anshuman Sharma",
 			title: "Lead Developer",
 			githubLink: "https://github.com/anshuman235",
 			linkedinLink: "https://www.linkedin.com/in/anshuman-sharma-b8609619b/",
@@ -25,26 +25,7 @@ function Team() {
 		},
 	];
 
-	// const [contributors, setContributors] = useState([]);
 
-	// useEffect(() => {
-	// 	fetch(
-	// 		"https://api.github.com/repos/smaranjitghose/doc2pen/contributors?per_page=1000",
-	// 	)
-	// 		.then(res => res.json())
-	// 		.then(data => {
-	// 			// console.log(data);
-	// 			setContributors(
-	// 				data.filter(
-	// 					element =>
-	// 						!(
-	// 							element.login === "smaranjitghose" ||
-	// 							element.login === "anushbhatia"
-	// 						),
-	// 				),
-	// 			);
-	// 		});
-	// }, []);
 
 	return (
 		<div className={styles.Team} id="home_team">

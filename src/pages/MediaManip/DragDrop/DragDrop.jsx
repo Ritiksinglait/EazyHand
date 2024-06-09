@@ -57,7 +57,7 @@ function DragDrop(props) {
 				<div className={styles.container_image}>
 					{files.map(file => (
 						<div key={file.path} className={`${styles.image} ${styles.scroll}`}>
-							<img src={file.preview} alt="doc2pen" />
+							<img src={file.preview} alt="EazyHand" />
 							<span onClick={() => deleteImage(file.path)}>
 								<AiFillCloseCircle size={24} />
 							</span>

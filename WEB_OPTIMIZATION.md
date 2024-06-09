@@ -1,6 +1,6 @@
-# Optimizing Doc2Pen
+# Optimizing EazyHand
 
-For Optimizing Doc2pen we have always followed some key rules for better SEO and Performace of the website
+For Optimizing EazyHand we have always followed some key rules for better SEO and Performace of the website
 
 <center><img src="https://media1.tenor.com/images/bc2f4c507d70d7eba5aa03f90484358a/tenor.gif?itemid=10968259" alt="SEO"/></center>
 
@@ -27,7 +27,7 @@ For Optimizing Doc2pen we have always followed some key rules for better SEO and
 
 <center><img src="https://i.imgur.com/VpHytZS.gif" alt="SEO"/></center>
 
-There are some Guidelines for better performance that you must follow while contributing code to doc2pen.
+There are some Guidelines for better performance that you must follow while contributing code to EazyHand.
 
 1. Always **resize the image's dimensions** to match its container's dimension. For instance, for a 300x400 image-container, use a image with width 300px. This will reduce image size that needs to be downloaded.
 
